@@ -1,4 +1,4 @@
-# Learn-Apollo
+# Learn GraphQL and Apollo
 
 ### Best Practices & Design Patterns
 - [Apollo Client’s new imperative store API](https://dev-blog.apollodata.com/apollo-clients-new-imperative-store-api-6cb69318a1e3)
@@ -8,6 +8,8 @@
 ### Code References
 This section includes codebases and other reference material to learn how to architect your Apollo front-end and GraphQL back-end. 
 - [Hacker News React GraphQL: Hacker News clone rewritten with universal JavaScript, using React and GraphQL.](https://github.com/clintonwoo/hackernews-react-graphql)
+- [Action: A multiplayer web application for building smarter, more agile teams. ](https://github.com/ParabolInc/action)
+- [RisingStack: Example GraphQL server with Mongoose (MongoDB) and Node.js](https://github.com/RisingStack/graphql-server)
 - [Chatty: WhatsApp clone with React Native and Apollo ](https://github.com/srtucker22/chatty)
 
 #### Server
