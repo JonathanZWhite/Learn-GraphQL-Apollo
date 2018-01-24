@@ -1,5 +1,9 @@
 # Learn GraphQL and Apollo
 
+### Tutorials
+- [How to GraphQL (new)](https://www.howtographql.com/react-apollo/0-introduction/)
+- [Learn Apollo (old)](https://www.learnapollo.com/introduction/get-started)
+
 ### Best Practices & Design Patterns
 - [Apollo Client’s new imperative store API](https://dev-blog.apollodata.com/apollo-clients-new-imperative-store-api-6cb69318a1e3)
 - [Best practice when a mutation deletes an object](https://github.com/apollographql/apollo-client/issues/899)
