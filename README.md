@@ -24,4 +24,5 @@ This section includes codebases and other reference material to learn how to arc
 - [Githunt React](https://github.com/apollographql/GitHunt-React)
 
 ### Libraries
+- [GraphQL Tag](https://github.com/apollographql/graphql-tag): A JavaScript template literal tag that parses GraphQL queries
 - [Data Loader](https://github.com/facebook/dataloader): DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
