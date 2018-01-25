@@ -29,4 +29,5 @@ This section includes codebases and other reference material to learn how to arc
 ### Libraries
 - [GraphQL Tools](https://github.com/apollographql/graphql-tools): Build, mock, and stitch a GraphQL schema using the schema language https
 - [GraphQL Tag](https://github.com/apollographql/graphql-tag): A JavaScript template literal tag that parses GraphQL queries
+- [Apollo Link](https://github.com/apollographql/apollo-link): Interface for fetching and modifying control flow of GraphQL requests
 - [Data Loader](https://github.com/facebook/dataloader): DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
