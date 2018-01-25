@@ -1,5 +1,8 @@
 # Learn GraphQL and Apollo
 
+### Motivation
+- [GraphQL vs Rest](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/)
+
 ### Tutorials
 - [Apollo client documentation](https://www.apollographql.com/docs/react/)
 - [Apollo server documentation](https://www.apollographql.com/docs/apollo-server/)
