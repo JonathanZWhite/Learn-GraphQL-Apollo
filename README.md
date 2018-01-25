@@ -1,7 +1,7 @@
 # Learn GraphQL and Apollo
 
 ### Tutorials
-- [How to GraphQL (new)](https://www.howtographql.com/react-apollo/0-introduction/)
+- [How to GraphQL](https://www.howtographql.com/react-apollo/0-introduction/)
 - [Building a GraphQL Server](https://dev-blog.apollodata.com/tutorial-building-a-graphql-server-cddaa023c035)
 - [Building Chatty: A WhatsApp clone with React Native and Apollo](https://medium.com/react-native-training/building-chatty-a-whatsapp-clone-with-react-native-and-apollo-part-1-setup-68a02f7e11)
 - [Learn Apollo (deprecated)](https://www.learnapollo.com/introduction/get-started)
