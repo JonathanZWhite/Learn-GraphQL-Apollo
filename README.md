@@ -32,7 +32,8 @@ This section includes codebases and other reference material to learn how to arc
 #### Client
 - [Githunt React](https://github.com/apollographql/GitHunt-React)
 
-### Libraries
+### Tools and Libraries
+- [ExtensionApollo Client Developer Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm): Apollo Client Developer Tools is a Chrome DevTools extension for Apollo.
 - [GraphQL Tools](https://github.com/apollographql/graphql-tools): Build, mock, and stitch a GraphQL schema using the schema language https
 - [GraphQL Tag](https://github.com/apollographql/graphql-tag): A JavaScript template literal tag that parses GraphQL queries
 - [Apollo Link](https://github.com/apollographql/apollo-link): Interface for fetching and modifying control flow of GraphQL requests
