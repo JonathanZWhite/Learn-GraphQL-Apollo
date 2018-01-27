@@ -41,3 +41,5 @@ This section includes codebases and other reference material to learn how to arc
 - [Apollo Link](https://github.com/apollographql/apollo-link): Interface for fetching and modifying control flow of GraphQL requests
 - [Recompose](https://github.com/acdlite/recompose): A React utility belt for function components and higher-order components.
 - [Data Loader](https://github.com/facebook/dataloader): DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
+- [PostGraphQL](https://github.com/postgraphql/postgraphql): A GraphQL schema created by reflection over a PostgreSQL schema.
+- [GraphCool Prisma](https://github.com/graphcool/prisma): Prisma turns your database into a realtime GraphQL API 
