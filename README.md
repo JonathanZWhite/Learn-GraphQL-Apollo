@@ -15,8 +15,9 @@
 - [Apollo Client’s new imperative store API](https://dev-blog.apollodata.com/apollo-clients-new-imperative-store-api-6cb69318a1e3)
 - [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
 - [Explaining GraphQL Connections](https://dev-blog.apollodata.com/explaining-graphql-connections-c48b7c3d6976)
-- [Best practice when a mutation deletes an object](https://github.com/apollographql/apollo-client/issues/899)
-- [Architecting for deeply nested UIs](https://github.com/apollographql/react-apollo/issues/192)
+- [How to structure GraphQL server code](https://dev-blog.apollodata.com/how-to-build-graphql-servers-87587591ded5)
+- [Best practice when a mutation deletes an object [issue]](https://github.com/apollographql/apollo-client/issues/899)
+- [Architecting for deeply nested UIs [issue]](https://github.com/apollographql/react-apollo/issues/192)
 
 ### Code References
 This section includes codebases and other reference material to learn how to architect your Apollo front-end and GraphQL back-end. 
