@@ -2,6 +2,7 @@
 
 ### Motivation
 - [GraphQL vs Rest](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/)
+- [REST APIs are REST-in-Peace APIs. Long Live GraphQL](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4)
 
 ### Tutorials
 - [Apollo client documentation](https://www.apollographql.com/docs/react/)
