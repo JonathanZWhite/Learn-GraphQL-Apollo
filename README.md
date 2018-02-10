@@ -28,6 +28,7 @@ This section includes codebases and other reference material to learn how to arc
 - [Action: A multiplayer web application for building smarter, more agile teams. ](https://github.com/ParabolInc/action)
 - [RisingStack: Example GraphQL server with Mongoose (MongoDB) and Node.js](https://github.com/RisingStack/graphql-server)
 - [Chatty: WhatsApp clone with React Native and Apollo ](https://github.com/srtucker22/chatty)
+- [Apoll Link State integration PR](https://github.com/sysgears/apollo-universal-starter-kit/pull/640)
 
 #### Server
 - [Github API Documentation](https://developer.github.com/v4/)
